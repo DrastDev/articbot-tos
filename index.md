@@ -11,7 +11,8 @@ We track when a guild is added or removed, and some data about the guild. This d
   - ID
   - Channels
   - Members<br>
- This information is only used to do some behind-the-scenes configuration in ArticBot for your server.
+  
+This information is only used to do some behind-the-scenes configuration in ArticBot for your server.
  
- ## The End
- That's all for now, more will come shortly.
+## The End
+That's all for now, more will come shortly.
