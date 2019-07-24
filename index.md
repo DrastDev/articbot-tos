@@ -10,8 +10,8 @@ The bot owner (AlanTheGreat#0001) can by default run any of these commands in an
 We track when a guild is added or removed, and some data about the guild. This data can include, and is not limited to:
   - ID
   - Channels
-  - Members
+  - Members<br>
  This information is only used to do some behind-the-scenes configuration in ArticBot for your server.
  
  ## The End
- That's all for know, more will come shortly.
+ That's all for now, more will come shortly.
